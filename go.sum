@@ -1,0 +1,6 @@
+github.com/dustin/go-wikiparse v0.0.0-20180421171717-b202c3048fd5 h1:tjhmxgRCgaUrCj5gPRodOMWce7M6f1hnkqETGlzh7C8=
+github.com/dustin/go-wikiparse v0.0.0-20180421171717-b202c3048fd5/go.mod h1:U9EBdqvNHbnUGP7pOVttSyZJFX8S2LYlSR2r+xHtnAY=
+github.com/integrii/flaggy v1.4.4 h1:8fGyiC14o0kxhTqm2VBoN19fDKPZsKipP7yggreTMDc=
+github.com/integrii/flaggy v1.4.4/go.mod h1:tnTxHeTJbah0gQ6/K0RW0J7fMUBk9MCF5blhm43LNpI=
+github.com/m-m-f/gowiki v0.0.0-20180103212159-93aa7513fb32 h1:ZWBPV39dFPk7osDO+JqX0DbRP9VVQ5kZiCqO+D+BU54=
+github.com/m-m-f/gowiki v0.0.0-20180103212159-93aa7513fb32/go.mod h1:SqG5HD5/rRLeyLhizqExNQKxIfdhXVRZQxk5FHwfiQo=
